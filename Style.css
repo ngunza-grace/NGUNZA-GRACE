@@ -1,0 +1,170 @@
+
+/* Fond d'écran synthétique */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-image: linear-gradient(to bottom right, #d3e0ea, #f9f7f7);
+  color: #222;
+  background-origin:#388;
+}
+
+/* Titre principal */
+h1 {
+  text-align: center;
+  background-color: #3a6ea5;
+  color: white;
+  padding: 20px;
+}
+
+/* Image principale */
+img {
+  display: block;
+  margin: 10px auto;
+  max-width: 90%;
+  height: auto;
+}
+
+/* Liens */
+a {
+  color: #3a6ea5;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Menu des liens */
+.Vik {
+  background-color: #f1f1f1;
+  padding: 15px;
+  border-radius: 8px;
+  width: 90%;
+  margin: auto;
+  background:#fff000;
+  
+}
+
+/* Section métier */
+.papa {
+  background-color: #ffffff;
+  padding: 15px;
+  margin: 20px auto;
+  width: 90%;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background: #0f4;
+  color: #ffffff;
+}
+
+/* Titres secondaires */
+h2, h3, h4 {
+  color: #3a6ea5;
+}
+/* Bouton haut de page */
+.top-link {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 8px 12px;
+  background-color: #3a5;
+  color: white;
+  border-radius: 5px;
+}
+
+
+
+
+
+/* Style général */
+body {
+  font-family:Arial,sans-serif;
+  background:linear-gradient(to right, #f0f4f8,#dfe9f3);
+  margin:0;
+  padding:20px;
+  color: #333;
+  
+}
+
+/* Titres */
+h1, h2, h3, h4 {
+  text-align: center;
+  color: #004080;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 28px;
+  color: #0066cc;
+}
+
+h3, h4 {
+  font-size: 22px;
+  margin-top: 30px;
+}
+
+/* Conteneurs */
+.qui, .dp, #mat {
+  background:#ff0;
+  color:#000;
+  padding: 15px;
+  margin: 20px auto;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  max-width: 800px;
+  
+}
+
+/* Listes */
+ol {
+  margin-left: 20px;
+  color: #333;
+}
+
+li {
+  padding: 4px 0;
+}
+
+/* Liens */
+a {
+  color: #004080;
+  text-decoration: none;
+  background:#f2f;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Bloc des liens */
+#seta {
+  text-align: center;
+  margin-top: 40px;
+}
+
+#seta p {
+  margin: 10px 0;
+
+/* Responsive */
+@media(max-width:600px) {
+  body {
+    padding:10px;
+  }
+
+  .qui, .dp, #mat {
+    padding: 10px;
+  }
+
+  h1 {font-size: 24px;
+  }
+}
+
+
+
+    
+
